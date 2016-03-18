@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BB7FF86C-A9CD-4912-889B-631F799F6FF2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PushNotificationSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>27864f6e-b4f4-b343-8e52-63dfe506e6ff++5044</key>
+		<string>http://amit.l@guava.afourtech.pune/svn/Ace/trunk/IOS/DeviceTrackerApp</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PushNotificationSample/PushNotificationSample.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>27864f6e-b4f4-b343-8e52-63dfe506e6ff++5044</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>27864f6e-b4f4-b343-8e52-63dfe506e6ff++5044</key>
+		<string>http://amit.l@guava.afourtech.pune/svn/Ace</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://amit.l@guava.afourtech.pune/svn/Ace/trunk/IOS/DeviceTrackerApp/PushNotificationSample/PushNotificationSample.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>27864f6e-b4f4-b343-8e52-63dfe506e6ff++5044</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>27864f6e-b4f4-b343-8e52-63dfe506e6ff++5044</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DeviceTrackerApp_2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
