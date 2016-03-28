@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>mCatalog copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -18,6 +23,11 @@
 			<true/>
 		</dict>
 		<key>27E5441D1A1E026C0067E758</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>83779ECE1CA9724F009BFBEC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
