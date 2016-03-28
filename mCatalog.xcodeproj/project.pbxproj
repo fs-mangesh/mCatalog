@@ -134,6 +134,7 @@
 		833F41E41A274C7F00B56F9A /* TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
 		8353731C1A3ED0D8004C6988 /* TableViewCell_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = TableViewCell_iPad.xib; path = ../TableViewCell_iPad.xib; sourceTree = "<group>"; };
 		8353731E1A3ED802004C6988 /* DeviceTableViewCell_iPad.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DeviceTableViewCell_iPad.xib; sourceTree = "<group>"; };
+		83779F141CA97250009BFBEC /* mCatalog copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "mCatalog copy-Info.plist"; path = "/Users/afour/Downloads/mCatalog/mCatalog copy-Info.plist"; sourceTree = "<absolute>"; };
 		838897B21A356F14002C2471 /* bar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bar.png; path = images/bar.png; sourceTree = "<group>"; };
 		838897B41A358068002C2471 /* header.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = header.png; path = images/header.png; sourceTree = "<group>"; };
 		838897B61A359558002C2471 /* DeviceActivityTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DeviceActivityTableViewController.h; path = PushNotificationSample/DeviceActivityTableViewController.h; sourceTree = "<group>"; };
@@ -217,6 +218,7 @@
 				27E544071A1E026C0067E758 /* PushNotificationSample */,
 				27E544211A1E026C0067E758 /* PushNotificationSampleTests */,
 				27E544061A1E026C0067E758 /* Products */,
+				83779F141CA97250009BFBEC /* mCatalog copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -650,8 +652,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Subodh Parulekar (YN73T38N5V)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Subodh Parulekar (YN73T38N5V)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Subodh Parulekar (T5WHAVBYZ2)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -665,7 +666,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = mCatalog;
-				PROVISIONING_PROFILE = "407d548d-e937-45d1-bdc6-198249208f44";
+				PROVISIONING_PROFILE = "b87b4231-a5ee-477f-9a74-da8409d685e0";
 				SDKROOT = iphoneos7.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -676,8 +677,8 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Subodh Parulekar (YN73T38N5V)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Subodh Parulekar (YN73T38N5V)";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Subodh Parulekar (T5WHAVBYZ2)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Subodh Parulekar (T5WHAVBYZ2)";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -691,7 +692,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = mCatalog;
-				PROVISIONING_PROFILE = "407d548d-e937-45d1-bdc6-198249208f44";
+				PROVISIONING_PROFILE = "b87b4231-a5ee-477f-9a74-da8409d685e0";
 				SDKROOT = iphoneos7.1;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
