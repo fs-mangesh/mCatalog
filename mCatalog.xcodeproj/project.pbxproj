@@ -715,7 +715,7 @@
 				INFOPLIST_FILE = PushNotificationSampleTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = mCatalogTests;
-				PROVISIONING_PROFILE = "407d548d-e937-45d1-bdc6-198249208f44";
+				PROVISIONING_PROFILE = "b87b4231-a5ee-477f-9a74-da8409d685e0";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mCatalog.app/mCatalog";
 			};
 			name = Debug;
@@ -733,7 +733,7 @@
 				INFOPLIST_FILE = PushNotificationSampleTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = mCatalogTests;
-				PROVISIONING_PROFILE = "407d548d-e937-45d1-bdc6-198249208f44";
+				PROVISIONING_PROFILE = "b87b4231-a5ee-477f-9a74-da8409d685e0";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mCatalog.app/mCatalog";
 			};
 			name = Release;
